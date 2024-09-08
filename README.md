@@ -25,13 +25,16 @@ ESP BLE Provisioning
 ![image](https://github.com/user-attachments/assets/2c5e57da-15f8-47c1-8381-76a47df85a28)
 
 # Outputs
+ESP32 Connected to PC
 ![Snapchat-373136864~2](https://github.com/user-attachments/assets/16f3f7d6-5a89-4f2c-b3c5-acf14abcfa0c)
 
 Terminal output
 ![terminal output](https://github.com/user-attachments/assets/11a88f34-d49d-4948-b712-928fa2a46db3)
 
 ESP32 Device shown in phone
-![Screenshot_20240908-125110](https://github.com/user-attachments/assets/186a690e-75b6-44f7-8aff-92e9cb0b5bdb)
+
+<img src = "https://github.com/user-attachments/assets/186a690e-75b6-44f7-8aff-92e9cb0b5bdb" width = "300" height = "500">
+
 
 ![Screenshot_20240908-125101](https://github.com/user-attachments/assets/3fd6f079-a917-4143-96c5-821fbaade461)
 
