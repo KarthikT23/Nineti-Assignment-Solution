@@ -30,5 +30,8 @@ ESP BLE Provisioning
 2) https://play.google.com/store/apps/details?id=com.espressif.provble
 3) https://randomnerdtutorials.com/esp32-wi-fi-provisioning-ble-arduino/
 4) https://github.com/KarthikT23/ESP32_BLE_WiFi
+5) https://github.com/espressif/idf-extra-components/tree/master/qrcode
+6) https://components.espressif.com/components/espressif/qrcode/versions/0.1.0~2
+7) https://github.com/yoprogramo/QRcodeDisplay
 
 
