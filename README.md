@@ -35,12 +35,14 @@ ESP32 Device shown in phone
 
 <img src = "https://github.com/user-attachments/assets/186a690e-75b6-44f7-8aff-92e9cb0b5bdb" width = "300" height = "500">
 
+<img src = "https://github.com/user-attachments/assets/3fd6f079-a917-4143-96c5-821fbaade461" width = "300" height = "500">
 
-![Screenshot_20240908-125101](https://github.com/user-attachments/assets/3fd6f079-a917-4143-96c5-821fbaade461)
 
 ESP BLE Provisioning app
-![Screenshot_20240908-125804](https://github.com/user-attachments/assets/e3c071a9-c965-4a0a-83b9-727e8cdadadd)
-![Screenshot_20240908-125813](https://github.com/user-attachments/assets/585a6087-71b8-4f9a-8e85-f20040b9e5eb)
+<img src = "https://github.com/user-attachments/assets/e3c071a9-c965-4a0a-83b9-727e8cdadadd" width = "300" height = "500">
+<img src = "https://github.com/user-attachments/assets/585a6087-71b8-4f9a-8e85-f20040b9e5eb" width = "300" height = "500">
+
+
 
 ESP Provisioning QR Code
 ![ESP Provisioning_ QR Code](https://github.com/user-attachments/assets/155ca534-6b70-40b0-aad2-526a727a0768)
