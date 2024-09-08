@@ -24,6 +24,21 @@ ESP BLE Provisioning
 # Flow of the project
 ![image](https://github.com/user-attachments/assets/2c5e57da-15f8-47c1-8381-76a47df85a28)
 
+
+
+# Algorithm 
+
+
+
+
+# How to use
+1) Start: The ESP32 turns on Bluetooth and waits for your phone to connect.
+2) Scan QR Code: You use the app to scan a QR code, which allows your phone to connect to the ESP32.
+3) Send Wi-Fi Info: The app sends your Wi-Fi name (SSID) and password to the ESP32 through BLE.
+4) Connect to Wi-Fi: The ESP32 uses the credentials to connect to your Wi-Fi.
+5) Success: If the connection is successful, provisioning is complete, and the ESP32 starts using Wi-Fi instead of BLE.
+
+
 # Outputs
 ESP32 Connected to PC
 ![Snapchat-373136864~2](https://github.com/user-attachments/assets/d1e50b50-914c-451b-93de-64b113ddd6e3)
