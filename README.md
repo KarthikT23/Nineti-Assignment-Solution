@@ -25,6 +25,23 @@ ESP BLE Provisioning
 ![image](https://github.com/user-attachments/assets/2c5e57da-15f8-47c1-8381-76a47df85a28)
 
 # Outputs
+Terminal output
+![terminal output](https://github.com/user-attachments/assets/11a88f34-d49d-4948-b712-928fa2a46db3)
+
+ESP32 Device shown in phone
+![Screenshot_20240908-125110](https://github.com/user-attachments/assets/186a690e-75b6-44f7-8aff-92e9cb0b5bdb)
+
+![Screenshot_20240908-125101](https://github.com/user-attachments/assets/3fd6f079-a917-4143-96c5-821fbaade461)
+
+ESP BLE Provisioning app
+![Screenshot_20240908-125804](https://github.com/user-attachments/assets/e3c071a9-c965-4a0a-83b9-727e8cdadadd)
+![Screenshot_20240908-125813](https://github.com/user-attachments/assets/585a6087-71b8-4f9a-8e85-f20040b9e5eb)
+
+ESP Provisioning QR Code
+![ESP Provisioning_ QR Code](https://github.com/user-attachments/assets/155ca534-6b70-40b0-aad2-526a727a0768)
+
+
+
 
 QR Code link: https://espressif.github.io/esp-jumpstart/qrcode.html?data={%22ver%22:%22v1%22,%22name%22:%22PROV_E8F680%22,%22pop%22:%22abcd1234%22,%22transport%22:%22ble%22}
 
