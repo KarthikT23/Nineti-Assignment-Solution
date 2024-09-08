@@ -24,6 +24,7 @@ ESP BLE Provisioning
 
 # Outputs
 
+QR Code link: https://espressif.github.io/esp-jumpstart/qrcode.html?data={%22ver%22:%22v1%22,%22name%22:%22PROV_E8F680%22,%22pop%22:%22abcd1234%22,%22transport%22:%22ble%22}
 
 # References
 1) https://github.com/espressif/esp-idf/tree/master/examples/provisioning
