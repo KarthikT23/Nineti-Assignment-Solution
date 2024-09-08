@@ -21,6 +21,8 @@ ESP BLE Provisioning
 
 ![Eclipse-esp-idf-678x381](https://github.com/user-attachments/assets/3643d729-5e04-4e0f-b333-bca2166b9532)
 
+# Flow of the project
+![image](https://github.com/user-attachments/assets/2c5e57da-15f8-47c1-8381-76a47df85a28)
 
 # Outputs
 
