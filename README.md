@@ -25,6 +25,8 @@ ESP BLE Provisioning
 ![image](https://github.com/user-attachments/assets/2c5e57da-15f8-47c1-8381-76a47df85a28)
 
 # Outputs
+![Snapchat-373136864~2](https://github.com/user-attachments/assets/16f3f7d6-5a89-4f2c-b3c5-acf14abcfa0c)
+
 Terminal output
 ![terminal output](https://github.com/user-attachments/assets/11a88f34-d49d-4948-b712-928fa2a46db3)
 
