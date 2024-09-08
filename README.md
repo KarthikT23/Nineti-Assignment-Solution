@@ -26,7 +26,7 @@ ESP BLE Provisioning
 
 
 
-# Algorithm 
+
 
 
 
