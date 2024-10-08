@@ -1,7 +1,7 @@
 # WiFi-Provisioning-ESP32-BLE
 How to transfer SSID and Password through Bluetooth Low Energy (BLE) using ESP BLE Provisioning app, to connect ESP32 to WiFi or Hotspot  
 
-ESP BLE Provisioning
+
 # Requirements
 1) ESP32 Dev Board 
 
